@@ -1,0 +1,21 @@
+{
+  "name": "Renos Vanilla App",
+  "short_name": "Renos App",
+  "icons": [
+    {
+      "src": ".images/favicon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": ".images/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
